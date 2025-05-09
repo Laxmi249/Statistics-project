@@ -1,4 +1,4 @@
-Statistics Implementation Using Python 🧮
+#Statistics Implementation Using Python 🧮
 
 This project demonstrates the practical implementation of core statistical concepts using Python libraries like numpy, statistics, matplotlib, and seaborn. The analysis is done in a Jupyter Notebook and includes both theoretical and visual exploration of data.
 
